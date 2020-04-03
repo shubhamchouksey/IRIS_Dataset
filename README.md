@@ -16,6 +16,6 @@ This lab introduces some basic concepts of machine learning with Python. In this
 2. Now, run jupyter notebook and open the “VisualizingDataForClassification.ipynb” notebook under this project.
 3. Examine the notebook and answer the questions along the way.
 
-**Question1:** From the plot, which species are more separated than the others?
-**Question2:** What is the accuracy printed?
-**Question3:** How many cases are mis-classified?
+**Question1:** From the plot, which species are more separated than the others?      
+**Question2:** What is the accuracy printed?       
+**Question3:** How many cases are mis-classified?       
